@@ -1,6 +1,6 @@
 # MoMA Collection DB Analysis
 
-This repository is to support analysis of the Museum of Modern Art's collection metadata. 
+This repository is to support analysis of the [Museum of Modern Art's collection metadata.](https://github.com/MuseumofModernArt/collection) 
 This includes: 
 - `artoveryear.py` — an analysis of gender and nationalities over time
 - `analysis.py `— assorted functions that I used in my prior analysis of the MoMA repo (but have not actively used for a few years)
